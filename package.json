@@ -34,7 +34,7 @@
     "@red-cup-engineering/relation-model-notation-json-codec": "workspace:*",
     "@red-cup-engineering/relation-model-notation-typing": "workspace:*",
     "@red-cup-engineering/semantic-content-identify-service": "workspace:*",
-    "@red-cup-engineering/uri-services-section": "workspace:*"
+    "@red-cup-engineering/uri-engineering-services-section": "workspace:*"
   },
   "license": "MIT",
   "funding": {
