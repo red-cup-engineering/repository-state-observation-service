@@ -1,5 +1,5 @@
 import { EMPTY_WITNESS_ROOT, admitNormalizedSemanticContent, identifyNormalizedSemanticContent } from "@red-cup-engineering/semantic-content-identify-service";
-import { jsonToTerm, termToJson } from "@red-cup-engineering/relation-model-notation-json-codec";
+import { jsonToTerm, termToJson } from "@red-cup-engineering/computer-code-engine/sen/json";
 import { inferTy } from "@red-cup-engineering/relation-model-notation-typing";
 
 export const OPERATION_KIND = "repository-state-observation.operation";
